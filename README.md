@@ -57,6 +57,7 @@ Six pivot tables were built:
 
 ### Dashboard
 - <a href ="https://cdn.corenexis.com/files/c/8748497720.png" "> Dashboard <a/a>
+- 
 An executive dashboard was created with eight key performance indicators and a structured layout.
 
 ---
