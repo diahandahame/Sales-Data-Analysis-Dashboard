@@ -14,6 +14,9 @@ The objective is to move beyond descriptive reporting and produce actionable ins
 - Source: [Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
 - <a href = "https://github.com/diahandahame/Sales-Data-Analysis-Dashboard/blob/main/Sales-perfomance-Analysis.xlsb.xlsx"> Excel file <a/a>
 
+- <a href ="https://cdn.corenexis.com/files/c/8748497720.png" "> Dashboard <a/a>
+
+
 The analysis is based on the Sample Superstore dataset:
 
 - 9,994 transaction lines  
