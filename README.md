@@ -11,7 +11,8 @@ The objective is to move beyond descriptive reporting and produce actionable ins
 
 ---
 ## Dataset
-Source: [Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
+- Source: [Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset)
+- <a href = "https://github.com/diahandahame/Sales-Data-Analysis-Dashboard/blob/main/Sales-perfomance-Analysis.xlsb.xlsx"> Excel file <a/a>
 
 The analysis is based on the Sample Superstore dataset:
 
@@ -55,6 +56,7 @@ Six pivot tables were built:
 - Category comparison  
 
 ### Dashboard
+
 An executive dashboard was created with eight key performance indicators and a structured layout.
 
 ---
