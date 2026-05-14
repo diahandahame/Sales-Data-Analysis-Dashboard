@@ -76,7 +76,7 @@ Six pivot tables were built across the following dimensions:
 
 ## 📈 Dashboard
 
-![Dashboard](Capture%20d'écran%202026-05-01%20120345.png)
+![Dashboard](Dashboard.png)
 
 ---
 
